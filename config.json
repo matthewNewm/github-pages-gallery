@@ -6,8 +6,9 @@
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
-  "theme": "cards",
+  "theme": "flow",
   "css": "./custom.css",
   "footer": "Matthew Newman",
   "usage-stats": false
+
 }
